@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @SleepySonya or Sonya :3 - a girl dev
+- 👀 I’m interested in becoming a true developer and make projects that could improve the world!
+- 🌱 I’m currently learning JavaScript, React.js, and some other funny stuff to be able to make my own projects from scratch.
+- 📫 My email: **sosleepnya@gmail.com**
